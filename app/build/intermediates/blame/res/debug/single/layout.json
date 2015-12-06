@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/build/intermediates/res/merged/debug/layout/device_detail.xml",
+        "source": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/src/main/res/layout/device_detail.xml"
+    },
+    {
+        "merged": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/build/intermediates/res/merged/debug/layout/row_devices.xml",
+        "source": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/src/main/res/layout/row_devices.xml"
+    }
+]

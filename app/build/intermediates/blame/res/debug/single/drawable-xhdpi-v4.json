@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_discover.png",
+        "source": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/src/main/res/drawable-xhdpi/ic_action_discover.png"
+    },
+    {
+        "merged": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_on_off.png",
+        "source": "/Users/huyuegu/AndroidStudioProjects/development-master-samples-WiFiDirectDemo/app/src/main/res/drawable-xhdpi/ic_action_on_off.png"
+    }
+]
